@@ -25,7 +25,6 @@ This project predicts median house values based on housing district features suc
 
 ## Project Structure
 
-```bash
 Housing_Prices_Prediction/
 │
 ├── app.py
