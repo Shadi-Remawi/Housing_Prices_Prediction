@@ -207,5 +207,4 @@ This project demonstrates practical machine learning skills including:
 
 Shadi Remawi
 
-```
-```
+
